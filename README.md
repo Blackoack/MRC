@@ -22,7 +22,7 @@ cd mars-rover-control
 2. Make sure you have Python 3.x installed on your computer.
 3. Run the program:
 
-python mars_rover.py
+python marsroverchallenge.py
 
 4. Follow the on-screen instructions to input the plateau size, rover starting positions, and instructions.
 
